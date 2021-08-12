@@ -11,7 +11,7 @@
 # or distributed except as authorized by the license.
 ###########################################################
 # Name: Gayatri Chakkarwar
-# Date: 08-JULY-2021
+# Date: 12-JULY-2021
 # Description: This exercise plays around with fitting "gizmos"
 #  into a bag that can only fit a certain number of "gizmos"
 #  This exercise should give you more experience with 
